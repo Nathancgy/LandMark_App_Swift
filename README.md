@@ -14,4 +14,4 @@
 3. Enjoy the App!
 
 # Requirements
-    * Xcode 12.0 and later
+    * Xcode 12.0 or later
